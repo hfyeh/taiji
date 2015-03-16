@@ -7,7 +7,7 @@
        * [第二論．太極十三勢行工歌訣](chap01/article002.md)
        * [第三論．太極拳十三勢](chap01/article003.md)
        * [第四論．太極拳打手歌](chap01/article004.md)
-   * [Article 2](chap01/article002.md)
+   * [武禹襄](chap01/article002.md)
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
