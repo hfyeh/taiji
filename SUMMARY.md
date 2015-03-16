@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [總綱](chap01/README.md)
-   * [王宗岳2](chap01/article000.md)
+   * [王宗岳](chap01/article000.md)
        * [第一論．太極拳論](chap01/article001.md)
        * [第二論．太極十三勢行工歌訣](chap01/article002.md)
        * [第三論．太極拳十三勢](chap01/article003.md)
