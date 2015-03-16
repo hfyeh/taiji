@@ -6,5 +6,4 @@
    * [Article 2](chap01/article002.md)
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
-* ffs
 
