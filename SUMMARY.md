@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [總綱](chap01/README.md)
+   * 李亦畬
    * [王宗岳](chap01/article000.md)
        * [第一論．太極拳論](chap01/article001.md)
        * [第二論．太極十三勢行工歌訣](chap01/article002.md)
@@ -14,7 +15,6 @@
        * [十三勢說略](chap01/article008.md)
        * [四字秘訣](chap01/article009.md)
        * [身法八要](chap01/article010.md)
-       * 李亦畬
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
