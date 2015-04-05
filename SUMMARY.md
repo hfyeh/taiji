@@ -16,7 +16,7 @@
        * [身法八要](chap01/article010.md)
    * 李亦畬
        * [五字訣](chap01/article011.md)
-       * [走架打手行工要言](zou_jia_da_shou_xing_gong_yao_yan.md)
+       * [走架打手行工要言](chap01/article012.md)
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
