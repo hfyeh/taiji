@@ -24,7 +24,6 @@
    * 內家拳文獻
        * [亂環訣](chap01/luan_huan_jue.md)
        * [授秘歌](chap01/shou_mi_ge.md)
-   * [總綱](chap01/README.md)
    * ttt
 * [Chapter 3](chapter-3/README.md)
 
