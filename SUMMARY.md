@@ -14,6 +14,7 @@
        * [十三勢說略](chap01/article008.md)
        * [四字秘訣](chap01/article009.md)
        * [身法八要](chap01/article010.md)
+   * 李亦畬
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
