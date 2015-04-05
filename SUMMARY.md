@@ -18,7 +18,7 @@
        * [五字訣](chap01/article011.md)
        * [走架打手行工要言](chap01/article012.md)
        * [撤放密訣](chap01/article013.md)
-       * 敷字訣解
+       * [敷字訣解](chap01/article014.md)
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
