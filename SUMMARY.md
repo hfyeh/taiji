@@ -25,7 +25,7 @@
        * [亂環訣](chap01/luan_huan_jue.md)
        * [授秘歌](chap01/shou_mi_ge.md)
    * 葉金山
-       * 王蘭亭太極拳萬法歸宗之最高層「平行術」簡介
+       * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap01/wang_lan_ting_tai_ji_quan_wan_fa_gui_zong_zhi_zui_gao_ceng_300c_ping_xing_shu_300d_jian_jie.md)
 * [宗岳門核心四術](chap02/README.md)
    * 引落術
    * 連環術
