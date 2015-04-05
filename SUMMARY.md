@@ -26,6 +26,13 @@
            * [亂環訣](chap01/luan_huan_jue.md)
            * [授秘歌](chap01/shou_mi_ge.md)
    * ttt
+* 李亦畬
+   * [五字訣](chap01/article011.md)
+   * [走架打手行工要言](chap01/article012.md)
+   * [撤放密訣](chap01/article013.md)
+   * [敷字訣解](chap01/article014.md)
+   * [虛實圖解](chap01/article015.md)
+   * [各勢白話歌](chap01/article016.md)
 * [武禹襄](chap01/article0011.md)
    * [十三勢行功要解](chap01/article005.md)
    * [太極拳解](chap01/article006.md)
