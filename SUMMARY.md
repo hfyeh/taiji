@@ -14,14 +14,14 @@
        * [十三勢說略](chap01/article008.md)
        * [四字秘訣](chap01/article009.md)
        * [身法八要](chap01/article010.md)
+   * 李亦畬
+       * [五字訣](chap01/article011.md)
+       * [走架打手行工要言](chap01/article012.md)
+       * [撤放密訣](chap01/article013.md)
+       * [敷字訣解](chap01/article014.md)
+       * [虛實圖解](chap01/article015.md)
+       * [各勢白話歌](chap01/article016.md)
    * [總綱](chap01/README.md)
-       * 李亦畬
-           * [五字訣](chap01/article011.md)
-           * [走架打手行工要言](chap01/article012.md)
-           * [撤放密訣](chap01/article013.md)
-           * [敷字訣解](chap01/article014.md)
-           * [虛實圖解](chap01/article015.md)
-           * [各勢白話歌](chap01/article016.md)
        * 內家拳文獻
            * [亂環訣](chap01/luan_huan_jue.md)
            * [授秘歌](chap01/shou_mi_ge.md)
