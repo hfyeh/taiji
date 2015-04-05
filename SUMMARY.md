@@ -22,6 +22,7 @@
        * [虛實圖解](chap01/article015.md)
        * [各勢白話歌](chap01/article016.md)
    * 內家拳文獻
+       * 亂環訣
 * [Chapter 2](chapter-2/README.md)
 * [Chapter 3](chapter-3/README.md)
 
