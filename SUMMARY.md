@@ -25,12 +25,12 @@
    * 內家拳文獻
        * [亂環訣](chap01/luan_huan_jue.md)
        * [授秘歌](chap01/shou_mi_ge.md)
+* 葉金山
+   * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap01/ping_xing.md)
 * [宗岳門核心四術](chap02/README.md)
    * 引落術
    * 連環術
    * 串子術
    * 罡氣術
-* 葉金山
-   * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap01/ping_xing.md)
 * 築基功
 
