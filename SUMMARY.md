@@ -2,7 +2,7 @@
 
 * [序](README.md)
    * 築基功
-* [總綱](chap01/README.md)
+* [前人文章](chap01/README.md)
    * 王宗岳
        * [第一論．太極拳論](chap01/article001.md)
        * [第二論．太極十三勢行工歌訣](chap01/article002.md)
