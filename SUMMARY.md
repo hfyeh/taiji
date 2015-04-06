@@ -26,7 +26,6 @@
        * [亂環訣](chap01/luan_huan_jue.md)
        * [授秘歌](chap01/shou_mi_ge.md)
 * 高階心法
-   * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap01/ping_xing.md)
    * 鬆柔
    * 平行術
        * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap01/ping_xing.md)
