@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [序](README.md)
 * [總綱](chap01/README.md)
    * [王宗岳](chap01/article000.md)
        * [第一論．太極拳論](chap01/article001.md)
