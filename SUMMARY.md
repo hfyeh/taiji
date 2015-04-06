@@ -26,6 +26,7 @@
        * [亂環訣](chap01/luan_huan_jue.md)
        * [授秘歌](chap01/shou_mi_ge.md)
    * 吳錦園
+       * 八卦掌練習要點
 * 高階心法
    * 鬆柔
    * 平行術
