@@ -30,6 +30,7 @@
    * 鬆柔
        * [化勁的無力技術與大鬆大柔精要](chap02/hua-jin.md)
        * [太極拳是戰技性鬆柔，非心神意氣之鬆柔](chap02/zhan_ji_xing_song_rou.md)
+       * 一片純柔是太極
    * 平行術
        * [王蘭亭太極拳萬法歸宗之最高層「平行術」簡介](chap02/ping_xing.md)
 * [核心四術](chap03/README.md)
