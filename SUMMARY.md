@@ -1,7 +1,6 @@
 # Summary
 
 * [序](README.md)
-   * 築基功
 * [前人文章](chap01/README.md)
    * 王宗岳
        * [第一論．太極拳論](chap01/article001.md)
