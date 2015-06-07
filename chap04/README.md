@@ -12,6 +12,14 @@ C->>D: Open arrow
 D-->>A: Dashed open arrow
 ```
 
+```sequence-hand
+Title: Here is a title
+A->B: Normal line
+B-->C: Dashed line
+C->>D: Open arrow
+D-->>A: Dashed open arrow
+```
+
 
 ```mermaid
 graph LR
@@ -21,13 +29,7 @@ graph LR
     C --> D
 ```
 
-```sequence-hand
-Title: Here is a title
-A->B: Normal line
-B-->C: Dashed line
-C->>D: Open arrow
-D-->>A: Dashed open arrow
-```
+
 
 ```mermaid
 graph TD;
