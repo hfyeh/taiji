@@ -1,6 +1,7 @@
 # Summary
 
 * [序](README.md)
+   * 王蘭亭太極拳六ˋ十四式
 * [前人文章](chap01/README.md)
    * 王宗岳
        * [第一論．太極拳論](chap01/article001.md)
