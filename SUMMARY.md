@@ -41,5 +41,5 @@
 * [築基功法](chap04/README.md)
    * 築基功學習架構圖
 * [王蘭亭太極拳六十四式](wang_lan_ting.md)
-   * [論太極拳勢架不發勁的進步性](chap05/bu_fa_jin_de_jin_bu_xing.md)
+   * [論太極拳勢架不發勁的進步性](chap05/我bu_fa_jin_de_jin_bu_xing.md)
 
