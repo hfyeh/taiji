@@ -13,7 +13,7 @@ D-->>A: Dashed open arrow
 ```
 
 
-```
+```mermaid
 graph LR
     A[Square Rect] -- Link text --> B((Circle))
     A --> C(Round Rect)
@@ -37,7 +37,7 @@ graph TD;
     C-->D;
 ```
 
-```
+```mermaid
 sequenceDiagram
     participant Alice
     participant Bob
@@ -52,16 +52,28 @@ sequenceDiagram
 ```
 
 
-```
+```mermaid
 graph TD
+id1
+id1[This is the text in the box]
+id1(This is the text in the box);
+ id1((This is the text in the circle));
+    id1>This is the text in the box]
+        id1{This is the text in the box}
 
 ```
 
-```
+```mermaid
 graph LR
+A-->B
+A --- B
+A-- This is the text --- B
+A---|This is the text|B;
+-.->
+==>
 ```
 
-```
+```mermaid
 graph TB
     sq[Square shape] --> ci((Circle shape))
 
