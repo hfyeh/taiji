@@ -1,15 +1,1 @@
-{
-    "plugins": [
-        "gitbook-plugin-disqus"
-    ],
-    "pluginsConfig": {
-        "gitbook-plugin-disqus": {
-            "plugins": [
-                "gitbook-plugin-disqus",
-                "gitbook-plugin-mermaid",
-                "js-sequence-diagram"
-            ],
-            "pluginsConfig": {}
-        }
-    }
-}
+0
