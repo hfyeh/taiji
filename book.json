@@ -1,1 +1,11 @@
-0
+{
+    "plugins": [
+        "disqus",
+        "mermaid"
+    ],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "sharefunyeh"
+        }
+    }
+}
