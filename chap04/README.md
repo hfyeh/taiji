@@ -40,7 +40,7 @@ graph TD;
     A[This哈]-->B;
     A-->C((T圓));
     B-->D;
-    C-->D(This is the text in the box);
+    C-->D(This);
 ```
 
 
