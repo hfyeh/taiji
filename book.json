@@ -3,5 +3,9 @@
         "disqus",
         "mermaid"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "sharefunyeh"
+        }
+    }
 }
