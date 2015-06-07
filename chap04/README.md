@@ -37,8 +37,8 @@ graph LR
 
 ``` mermaid
 graph TD;
-    A[This is the text in the box]-->B;
-    A-->C((This is the text in the circle));
+    A[This哈]-->B;
+    A-->C((T圓));
     B-->D;
     C-->D(This is the text in the box);
 ```
