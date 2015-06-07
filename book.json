@@ -1,17 +1,10 @@
 {
     "plugins": [
-        "gitbook-plugin-disqus"
+        "disqus"
     ],
     "pluginsConfig": {
-        "gitbook-plugin-disqus": {
-            "plugins": [
-                "disqus"
-            ],
-            "pluginsConfig": {
-                "disqus": {
-                    "shortName": "sharefunyeh"
-                }
-            }
+        "disqus": {
+            "shortName": "sharefunyeh"
         }
     }
 }
