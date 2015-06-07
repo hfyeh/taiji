@@ -2,5 +2,16 @@
     "plugins": [
         "gitbook-plugin-disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "gitbook-plugin-disqus": {
+            "plugins": [
+                "disqus"
+            ],
+            "pluginsConfig": {
+                "disqus": {
+                    "shortName": "XXXXXXX"
+                }
+            }
+        }
+    }
 }
