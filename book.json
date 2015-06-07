@@ -1,10 +1,4 @@
 {
-    "plugins": [
-        "disqus"
-    ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "sharefunyeh"
-        }
-    }
+    "plugins": [],
+    "pluginsConfig": {}
 }
