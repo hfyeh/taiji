@@ -19,7 +19,7 @@
        * [走架打手行工要言](chap01/走架打手行工要言.md)
        * [撤放密訣](chap01/撤放密訣.md)
        * [敷字訣解](chap01/敷字訣解.md)
-       * [虛實圖解](chap01/article015.md)
+       * [虛實圖解](chap01/虛實圖解.md)
        * [各勢白話歌](chap01/article016.md)
    * 內家拳文獻
        * [亂環訣](chap01/luan_huan_jue.md)
