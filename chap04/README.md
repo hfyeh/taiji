@@ -51,6 +51,16 @@ sequenceDiagram
     Bob-->>John: Jolly good!
 ```
 
+
+```
+graph TD
+
+```
+
+```
+graph LR
+```
+
 ```
 graph TB
     sq[Square shape] --> ci((Circle shape))
