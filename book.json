@@ -2,7 +2,8 @@
     "plugins": [
         "disqus",
         "mermaid",
-        "betterchinese"
+        "betterchinese",
+        "js-sequence-hand-diagram"
     ],
     "pluginsConfig": {
         "disqus": {
