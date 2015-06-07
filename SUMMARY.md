@@ -17,7 +17,7 @@
    * 李亦畬
        * [五字訣](chap01/五字訣.md)
        * [走架打手行工要言](chap01/走架打手行工要言.md)
-       * [撤放密訣](chap01/article013.md)
+       * [撤放密訣](chap01/撤放密訣.md)
        * [敷字訣解](chap01/article014.md)
        * [虛實圖解](chap01/article015.md)
        * [各勢白話歌](chap01/article016.md)
