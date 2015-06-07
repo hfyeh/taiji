@@ -2,8 +2,7 @@
     "plugins": [
         "disqus",
         "mermaid",
-        "betterchinese",
-        "fancybox"
+        "betterchinese"
     ],
     "pluginsConfig": {
         "disqus": {
