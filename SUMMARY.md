@@ -9,7 +9,7 @@
        * [第四論．太極拳打手歌](chap01/太極拳打手歌.md)
    * 武禹襄
        * [十三勢行功要解](chap01/十三勢行功要解.md)
-       * [太極拳解](chap01/article006.md)
+       * [太極拳解](chap01/太極拳解.md)
        * [太極拳論要解](chap01/article007.md)
        * [十三勢說略](chap01/article008.md)
        * [四字秘訣](chap01/article009.md)
