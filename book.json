@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "mermaid"
+        "mermaid",
+        "gitbook-plugin-betterchinese"
     ],
     "pluginsConfig": {
         "disqus": {
