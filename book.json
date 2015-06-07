@@ -1,7 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "gitbook-plugin-mermaid"
+        "gitbook-mermaid"
     ],
     "pluginsConfig": {
         "disqus": {
