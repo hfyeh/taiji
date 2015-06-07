@@ -2,5 +2,14 @@
     "plugins": [
         "gitbook-plugin-disqus"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "gitbook-plugin-disqus": {
+            "plugins": [
+                "gitbook-plugin-disqus",
+                "gitbook-plugin-mermaid",
+                "js-sequence-diagram"
+            ],
+            "pluginsConfig": {}
+        }
+    }
 }
