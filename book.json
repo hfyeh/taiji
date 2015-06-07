@@ -3,7 +3,6 @@
         "disqus",
         "mermaid",
         "betterchinese",
-        "js-sequence-diagram",
         "fancybox"
     ],
     "pluginsConfig": {
