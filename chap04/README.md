@@ -13,6 +13,14 @@ D-->>A: Dashed open arrow
 ```
 
 
+```
+graph LR
+    A[Square Rect] -- Link text --> B((Circle))
+    A --> C(Round Rect)
+    B --> D{Rhombus}
+    C --> D
+```
+
 ```sequence-hand
 Title: Here is a title
 A->B: Normal line
