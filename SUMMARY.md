@@ -15,7 +15,7 @@
        * [四字秘訣](chap01/四字秘訣.md)
        * [身法八要](chap01/身法八要.md)
    * 李亦畬
-       * [五字訣](chap01/article011.md)
+       * [五字訣](chap01/五字訣.md)
        * [走架打手行工要言](chap01/article012.md)
        * [撤放密訣](chap01/article013.md)
        * [敷字訣解](chap01/article014.md)
