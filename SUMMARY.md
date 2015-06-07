@@ -28,7 +28,7 @@
        * [八卦掌練習要點](chap01/八卦掌練習要點.md)
 * 高階心法
    * 鬆柔
-       * [化勁的無力技術與大鬆大柔精要](chap02/hua-jin.md)
+       * [化勁的無力技術與大鬆大柔精要](chap02/化勁的無力技術與大鬆大柔精要.md)
        * [太極拳是戰技性鬆柔，非心神意氣之鬆柔](chap02/zhan_ji_xing_song_rou.md)
        * [一片純柔是太極](chap02/yi_pian_chun_rou_shi_tai_ji.md)
    * 平行術
