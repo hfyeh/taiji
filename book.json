@@ -2,7 +2,7 @@
     "plugins": [
         "gitbook-plugin-disqus",
         "gitbook-plugin-mermaid",
-        "gitbook-plugin-js-sequence-diagram"
+        "js-sequence-diagram"
     ],
     "pluginsConfig": {}
 }
