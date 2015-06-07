@@ -3,7 +3,8 @@
         "disqus",
         "mermaid",
         "betterchinese",
-        "js-sequence-hand-diagram"
+        "js-sequence-hand-diagram",
+        "fancybox"
     ],
     "pluginsConfig": {
         "disqus": {
