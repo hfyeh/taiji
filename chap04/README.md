@@ -20,6 +20,21 @@ C->>D: Open arrow
 D-->>A: Dashed open arrow
 ```
 
+‵‵‵
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+‵‵‵
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 
 '''mermaid
