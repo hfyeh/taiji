@@ -1,10 +1,5 @@
 # 築基功法
 
-* 基本功法
-* 五弓大展
-* 
-
-
 ```mermaid
 graph LR
     A[Square Rect] -- Link text --> B((Circle))
