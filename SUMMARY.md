@@ -13,7 +13,7 @@
        * [太極拳論要解](chap01/太極拳論要解.md)
        * [十三勢說略](chap01/十三勢說略.md)
        * [四字秘訣](chap01/四字秘訣.md)
-       * [身法八要](chap01/article010.md)
+       * [身法八要](chap01/身法八要.md)
    * 李亦畬
        * [五字訣](chap01/article011.md)
        * [走架打手行工要言](chap01/article012.md)
