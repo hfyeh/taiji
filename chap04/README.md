@@ -29,5 +29,5 @@ graph TD;
 
 ```mermaid
 graph TD;
-    A-->B(基本功法);
+    A(基本功法)-->B;
 ```
