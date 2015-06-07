@@ -4,7 +4,8 @@
 * 五弓大展
 * 
 
-```sequence
+
+``` sequence
 Title: Here is a title
 A->B: Normal line
 B-->C: Dashed line
