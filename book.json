@@ -1,10 +1,6 @@
 {
     "plugins": [
-        "disqus"
+        "gitbook-plugin-disqus"
     ],
-    "pluginsConfig": {
-        "disqus": {
-            "shortName": "sharefunyeh"
-        }
-    }
+    "pluginsConfig": {}
 }
