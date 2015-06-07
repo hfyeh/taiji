@@ -1,8 +1,7 @@
 {
     "plugins": [
         "disqus",
-        "mermaid",
-        "betterchinese"
+        "mermaid"
     ],
     "pluginsConfig": {
         "disqus": {
