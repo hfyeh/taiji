@@ -13,7 +13,7 @@ C->>D: Open arrow
 D-->>A: Dashed open arrow
 ```
 
-```sequence-hand
+``` sequence-hand
 Title: Here is a title
 A->B: Normal line
 B-->C: Dashed line
@@ -22,7 +22,7 @@ D-->>A: Dashed open arrow
 ```
 
 
-```mermaid
+``` mermaid
 graph LR
     A[Square Rect] -- Link text --> B((Circle))
     A --> C(Round Rect)
@@ -35,7 +35,7 @@ graph LR
 
 
 
-```mermaid
+``` mermaid
 graph TD;
     A[This is the text in the box]-->B;
     A-->C((This is the text in the circle));
