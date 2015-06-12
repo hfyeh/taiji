@@ -12,7 +12,7 @@
 本書選文採全文引用，於重要之處會特別強調，期望協助讀者提綱挈領之餘，不致錯失其他環節。
 
 
-[jijij](final_stage.png)
+![jijij](final_stage.png)
 
 
 
