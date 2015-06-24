@@ -22,6 +22,10 @@ graph TD;
 ```
 
 
+$$W_{12}=\int_1^2 Fds$$
+
+
+
 ```mermaid
 graph TD;
     A(基本功法)-->B(推托帶領戳砸);
