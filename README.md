@@ -15,8 +15,6 @@
 ![jijij](final_stage.png)
 
 
-
-
 宗岳門太極拳架構（正氣道館）
 ![宗岳門太極拳架構（正氣道館）](slide1.jpg)
 
