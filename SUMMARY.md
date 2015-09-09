@@ -19,7 +19,7 @@
        * [撒放密訣](chap01/撤放密訣.md)
        * [敷字訣解](chap01/敷字訣解.md)
    * [其它](chap01/其它.md)
-       * 授秘歌
+       * [授秘歌](chap01/授秘歌.md)
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
