@@ -9,6 +9,7 @@
        * [第四論．太極拳打手歌](chap01/太極拳打手歌.md)
    * [武禹襄](chap01/武禹襄.md)
        * [十三勢行功要解](chap01/十三勢行功要解.md)
+       * 太極拳解
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
