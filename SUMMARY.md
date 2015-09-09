@@ -13,7 +13,7 @@
        * [太極拳論要解](chap01/太極拳論要解.md)
        * [十三勢說略](chap01/十三勢說略.md)
    * [李亦畬](chap01/李亦畬.md)
-       * 五字訣
+       * [五字訣](chap01/五字訣.md)
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
