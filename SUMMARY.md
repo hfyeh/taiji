@@ -24,6 +24,7 @@
    * [其它](chap01/其它.md)
        * [授秘歌](chap01/授秘歌.md)
        * [亂環訣](chap01/亂環訣.md)
+       * 八卦掌練習要點
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
