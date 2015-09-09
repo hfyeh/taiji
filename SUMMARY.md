@@ -14,7 +14,7 @@
        * [十三勢說略](chap01/十三勢說略.md)
    * [李亦畬](chap01/李亦畬.md)
        * [五字訣](chap01/五字訣.md)
-       * 走架打手行功要言
+       * [走架打手行功要言](chap01/走架打手行功要言.md)
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
