@@ -11,6 +11,7 @@
        * [十三勢行功要解](chap01/十三勢行功要解.md)
        * [太極拳解](chap01/太極拳解.md)
        * [太極拳論要解](chap01/太極拳論要解.md)
+       * 十三勢說略
 * [高階心法](gao_jie_xin_fa.md)
 * [核心四術](chap03/README.md)
 * [築基功法](chap04/README.md)
