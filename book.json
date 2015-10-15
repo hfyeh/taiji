@@ -2,7 +2,8 @@
     "plugins": [
         "disqus",
         "mermaid",
-        "collapsible-menu"
+        "collapsible-menu",
+        "plugins": ["exercises"]
     ],
     "pluginsConfig": {
         "disqus": {
