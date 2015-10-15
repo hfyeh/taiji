@@ -8,7 +8,7 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
-        },
+        }
         "sitemap": {
             "hostname": "http://mybook.com/"
         }
