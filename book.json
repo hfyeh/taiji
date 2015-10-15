@@ -2,7 +2,7 @@
     "plugins": [
         "disqus",
         "mermaid",
-        "Gitbook 扩展侧边栏"
+        "collapsible-menu",
     ],
     "pluginsConfig": {
         "disqus": {
