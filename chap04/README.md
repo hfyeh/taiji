@@ -1,4 +1,4 @@
-# 築基功法
+# 築基功法(本頁為側試用)
 
 {% exercise %}
 Define a variable `x` equal to 10.
