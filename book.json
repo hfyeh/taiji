@@ -2,15 +2,11 @@
     "plugins": [
         "disqus",
         "mermaid",
-        "plugins": ["sitemap"],
         "collapsible-menu"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
-        }
-        "sitemap": {
-            "hostname": "http://mybook.com/"
         }
     }
 }
