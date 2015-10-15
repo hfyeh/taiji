@@ -10,11 +10,6 @@
             "shortName": "sharefunyeh"
         }
     }
-}
-
-
-{
-    
     "pluginsConfig": {
         "sitemap": {
             "hostname": "http://mybook.com/"
