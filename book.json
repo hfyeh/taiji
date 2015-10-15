@@ -1,7 +1,8 @@
 {
     "plugins": [
         "disqus",
-        "mermaid"
+        "mermaid",
+        "Gitbook 扩展侧边栏"
     ],
     "pluginsConfig": {
         "disqus": {
