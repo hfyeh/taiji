@@ -5,7 +5,8 @@
         "collapsible-menu",
         "fancybox",
         "betterchinese",
-        "youtube"
+        "youtube",
+        "search"
     ],
     "pluginsConfig": {
         "disqus": {
