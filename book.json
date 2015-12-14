@@ -4,7 +4,8 @@
         "mermaid",
         "collapsible-menu",
         "search",
-        "fancybox"
+        "fancybox",
+        "betterchinese"
     ],
     "pluginsConfig": {
         "disqus": {
