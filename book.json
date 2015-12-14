@@ -7,7 +7,7 @@
         "betterchinese",
         "comment",
         "search-languages",
-        "sections"
+        "-sections"
     ],
     "pluginsConfig": {
         "disqus": {
