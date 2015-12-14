@@ -3,7 +3,8 @@
         "disqus",
         "mermaid",
         "collapsible-menu",
-        "facebook"
+        "facebook",
+        "comment"
     ],
     "pluginsConfig": {
         "disqus": {
