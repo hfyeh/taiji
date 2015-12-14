@@ -6,8 +6,7 @@
         "fancybox",
         "betterchinese",
         "comment",
-        "search-languages",
-        "-sections"
+        "search-languages"
     ],
     "pluginsConfig": {
         "disqus": {
