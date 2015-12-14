@@ -1,6 +1,7 @@
 # Summary
 
 * [序](README.md)
+   * 宗岳門訓
 * [宗岳源流](宗岳源流.md)
 * [前人文章](content/前人文章.md)
    * [王宗岳](content/王宗岳.md)
