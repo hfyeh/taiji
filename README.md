@@ -32,4 +32,4 @@
 
 本書由宗岳門太極拳正氣道館合編。
 
-![img/ztaiji.jpg](img/ztaiji.jpg)
+![正氣道館館徽](img/ztaiji.jpg)
