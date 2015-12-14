@@ -5,8 +5,7 @@
         "collapsible-menu",
         "fancybox",
         "betterchinese",
-        "comment",
-        "search-pro"
+        "comment"
     ],
     "pluginsConfig": {
         "disqus": {
