@@ -5,7 +5,8 @@
         "collapsible-menu",
         "fancybox",
         "betterchinese",
-        "comment"
+        "comment",
+        "sections"
     ],
     "pluginsConfig": {
         "disqus": {
