@@ -4,9 +4,7 @@
         "mermaid",
         "collapsible-menu",
         "facebook",
-        "search",
-        "search-pro",
-        "search-languages"
+        "search"
     ],
     "pluginsConfig": {
         "disqus": {
