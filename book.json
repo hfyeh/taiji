@@ -4,7 +4,8 @@
         "mermaid",
         "collapsible-menu",
         "facebook",
-        "comment"
+        "comment",
+        "search"
     ],
     "pluginsConfig": {
         "disqus": {
