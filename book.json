@@ -5,16 +5,11 @@
         "collapsible-menu",
         "fancybox",
         "betterchinese",
-        "youtube",
-        "search-pro"
+        "youtube"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
-        },
-        "search-pro": {
-        "cutWordLib": "nodejieba",
-        "defineWord" : ["宗岳門","太極拳"]
         }
     }
 }
