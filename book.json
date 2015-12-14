@@ -11,6 +11,9 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
+        },
+        "comment": {
+            "highlightCommented": false
         }
     }
 }
