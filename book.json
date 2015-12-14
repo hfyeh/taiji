@@ -8,8 +8,7 @@
         "search-pro",
         "search-languages",
         "fancybox",
-        "betterchinese",
-        "easyheightlight"
+        "betterchinese"
     ],
     "pluginsConfig": {
         "disqus": {
