@@ -6,8 +6,7 @@
         "facebook",
         "search",
         "search-pro",
-        "search-languages",
-        "fancybox"
+        "search-languages"
     ],
     "pluginsConfig": {
         "disqus": {
