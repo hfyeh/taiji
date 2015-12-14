@@ -13,7 +13,7 @@
        * [太極拳論要解](content/太極拳論要解.md)
        * [十三勢說略](content/十三勢說略.md)
        * [身法八要](content/身法八要.md)
-       * [四字秘訣](chap01/四字秘訣.md)
+       * [四字秘訣](content/四字秘訣.md)
        * [各勢白話歌](chap01/各勢白話歌.md)
    * [李亦畬](content/李亦畬.md)
        * [五字訣](content/五字訣.md)
