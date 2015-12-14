@@ -14,7 +14,7 @@
        * [十三勢說略](content/十三勢說略.md)
        * [身法八要](content/身法八要.md)
        * [四字秘訣](content/四字秘訣.md)
-       * [各勢白話歌](chap01/各勢白話歌.md)
+       * [各勢白話歌](content/各勢白話歌.md)
    * [李亦畬](content/李亦畬.md)
        * [五字訣](content/五字訣.md)
        * [走架打手行功要言](content/走架打手行工要言.md)
