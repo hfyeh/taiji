@@ -11,6 +11,9 @@
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
+        },
+        "search": {
+            "maxIndexSize": "1000000"
         }
     }
 }
