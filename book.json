@@ -6,7 +6,8 @@
         "facebook",
         "comment",
         "search",
-        "search-pro"
+        "search-pro",
+        "search-languages"
     ],
     "pluginsConfig": {
         "disqus": {
