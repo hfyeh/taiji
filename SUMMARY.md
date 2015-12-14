@@ -28,7 +28,6 @@
        * [王征南墓誌銘](content/王征南墓誌銘.md)
        * [沈一貫．搏者張松溪傳](content/沈一貫．搏者張松溪傳.md)
        * [寧波府誌．張松溪傳](content/寧波府誌．張松溪傳.md)
-   * [test chinese](content/test.md)
 * [高階心法](content/高階心法.md)
    * [鬆柔](content/鬆柔.md)
        * [為什麼不敢大鬆大柔](content/為什麼不敢大鬆大柔.md)
