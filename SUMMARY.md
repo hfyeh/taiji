@@ -1,7 +1,7 @@
 # Summary
 
 * [序](README.md)
-* [前人文章](chap01/README.md)
+* [前人文章](content/前人文章.md)
    * [王宗岳](chap01/王宗岳.md)
        * [第一論．太極拳論](chap01/太極拳論.md)
        * [第二論．太極十三勢行工歌訣](chap01/太極十三勢行工歌訣.md)
