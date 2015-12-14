@@ -3,7 +3,8 @@
         "disqus",
         "mermaid",
         "collapsible-menu",
-        "search"
+        "search",
+        "fancybox"
     ],
     "pluginsConfig": {
         "disqus": {
