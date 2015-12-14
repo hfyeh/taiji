@@ -5,15 +5,11 @@
         "collapsible-menu",
         "fancybox",
         "betterchinese",
-        "comment",
         "youtube"
     ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "sharefunyeh"
-        },
-        "comment": {
-            "highlightCommented": false
         }
     }
 }
