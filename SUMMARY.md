@@ -18,7 +18,7 @@
    * [李亦畬](content/李亦畬.md)
        * [五字訣](content/五字訣.md)
        * [走架打手行功要言](content/走架打手行工要言.md)
-       * [撒放密訣](chap01/撤放密訣.md)
+       * [撒放密訣](content/撤放密訣.md)
        * [敷字訣解](chap01/敷字訣解.md)
        * [虛實圖解](chap01/虛實圖解.md)
    * [其它](content/其它.md)
