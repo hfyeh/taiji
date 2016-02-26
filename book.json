@@ -2,7 +2,7 @@
     "plugins": [
         "disqus",
         "-mermaid",
-        "-collapsible-menu",
+        "collapsible-menu",
         "fancybox",
         "youtube"
     ],
