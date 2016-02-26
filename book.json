@@ -3,7 +3,7 @@
         "-disqus",
         "-mermaid",
         "-collapsible-menu",
-        "fancybox",
+        "-fancybox",
         "youtube"
     ],
     "pluginsConfig": {
