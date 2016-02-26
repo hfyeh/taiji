@@ -4,7 +4,7 @@
         "-mermaid",
         "-collapsible-menu",
         "-fancybox",
-        "youtube"
+        "-youtube"
     ],
     "pluginsConfig": {
         "-disqus": {
