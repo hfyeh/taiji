@@ -1,13 +1,13 @@
 {
     "plugins": [
-        "-disqus",
+        "disqus",
         "-mermaid",
         "collapsible-menu",
         "-fancybox",
         "-youtube"
     ],
     "pluginsConfig": {
-        "-disqus": {
+        "disqus": {
             "shortName": "sharefunyeh"
         }
     }
