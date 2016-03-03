@@ -5,6 +5,7 @@
         "collapsible-menu",
         "fancybox",
         "youtube",
+        "-search",
         "search-pro"
     ],
     "pluginsConfig": {
