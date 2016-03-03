@@ -13,7 +13,7 @@
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
-            "defineWord" : ["宗岳門","基础建设"]
+            "defineWord" : ["宗岳門","指領"]
         }
     }
 }
