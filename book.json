@@ -10,11 +10,15 @@
     ],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "sharefunyeh"
+            "shortName": "sharefunyeh",
+            "useIdentifier": true
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
-            "defineWord" : ["宗岳門","指領"]
+            "defineWord": [
+                "宗岳門",
+                "指領"
+            ]
         }
     }
 }
