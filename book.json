@@ -6,8 +6,7 @@
         "fancybox",
         "youtube",
         "-search",
-        "search-pro",
-        "discourse"
+        "search-pro"
     ],
     "pluginsConfig": {
         "-disqus": {
