@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "disqus",
+        "-disqus",
         "-mermaid",
         "collapsible-menu",
         "fancybox",
@@ -10,7 +10,7 @@
         "discourse"
     ],
     "pluginsConfig": {
-        "disqus": {
+        "-disqus": {
             "shortName": "sharefunyeh",
             "useIdentifier": true
         },
