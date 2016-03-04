@@ -6,8 +6,7 @@
         "fancybox",
         "youtube",
         "-search",
-        "search-pro",
-        "ga"
+        "search-pro"
     ],
     "pluginsConfig": {
         "-disqus": {
@@ -20,10 +19,6 @@
                 "宗岳門",
                 "指領"
             ]
-        },
-        "ga": {
-            "token": "UA-56756592-1",
-            "configuration": "auto"
         }
     }
 }
