@@ -20,6 +20,10 @@
                 "宗岳門",
                 "指領"
             ]
+        },
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
         }
     }
 }
