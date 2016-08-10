@@ -8,13 +8,12 @@
         "-search",
         "search-pro"
     ],
-    "pluginsConfig": {
-/*        
-"-disqus": {
-            "shortName": "sharefunyeh",
-            "useIdentifier": true
-        },
-*/
+    "pluginsConfig": {        
+//"-disqus": {
+  //          "shortName": "sharefunyeh",
+    //        "useIdentifier": true
+      //  },
+
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord": [
