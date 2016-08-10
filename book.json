@@ -1,19 +1,6 @@
 {
     "plugins": [
-        "-mermaid",
-        "collapsible-menu",
-        "fancybox",
-        "youtube",
-        "-search",
-        "search-pro"
     ],
     "pluginsConfig": {        
-        "search-pro": {
-            "cutWordLib": "nodejieba",
-            "defineWord": [
-                "宗岳門",
-                "指領"
-            ]
-        }
     }
 }
