@@ -1,6 +1,5 @@
 {
     "plugins": [
-  //      "-disqus",
         "-mermaid",
         "collapsible-menu",
         "fancybox",
@@ -9,11 +8,6 @@
         "search-pro"
     ],
     "pluginsConfig": {        
-//"-disqus": {
-  //          "shortName": "sharefunyeh",
-    //        "useIdentifier": true
-      //  },
-
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord": [
