@@ -32,8 +32,5 @@
 
 ### 目錄
 
-[本書目錄](SUMMARY.md)
-https://github.com/HFYEH/taiji
-
 本書同步發布於[github](https://github.com/HFYEH/taiji)及[gitbook](https://www.gitbook.com/book/sharefunyeh/taiji/details)。
 
