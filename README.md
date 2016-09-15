@@ -16,13 +16,11 @@
 
 第七章收錄部分內家拳古文文獻，內家拳辨證，和宗長所述之武林掌故。
 
-
 ### 體例
 
 本書除前人文章章節內的文章為前輩高人所作之外，其餘文章皆在首段標名作者，作者或為宗長葉金山，或為各館館長或教練。
 
 若使用網頁版，可於每一段落右側加入討論，並於文章最下方對文章進行提問，將有館長教練給予回覆。
-
 
 ### 版權
 
@@ -35,5 +33,7 @@
 ### 目錄
 
 [本書目錄](SUMMARY.md)
+https://github.com/HFYEH/taiji
 
-本書同步發布於[github](https://www.gitbook.com/book/sharefunyeh/taiji/details)及[gitbook](https://www.gitbook.com/book/sharefunyeh/taiji/details)。
+本書同步發布於[github](https://github.com/HFYEH/taiji)及[gitbook](https://www.gitbook.com/book/sharefunyeh/taiji/details)。
+
