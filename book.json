@@ -1,7 +1,12 @@
 {
     "plugins": [
-      "youtube"
+        "youtube",
+        "disqus"
     ],
-    "pluginsConfig": {        
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "sharefunyeh",
+            "useIdentifier": true
+        }
     }
 }
