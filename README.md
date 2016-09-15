@@ -36,4 +36,4 @@
 
 [本書目錄](SUMMARY.md)
 
-<!-- toc -->
+本書同步發布於[github](https://www.gitbook.com/book/sharefunyeh/taiji/details)及[gitbook](https://www.gitbook.com/book/sharefunyeh/taiji/details)。
