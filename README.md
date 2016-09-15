@@ -30,7 +30,9 @@
 
 正氣道館：彭啟豪、葉學舫。
 
-### 目錄
+### 註記
 
-本書同步發布於[github](https://github.com/HFYEH/taiji)及[gitbook](https://www.gitbook.com/book/sharefunyeh/taiji/details)。
+本書同步發布於[github](https://github.com/HFYEH/taiji/blob/master/SUMMARY.md)及[gitbook](
+https://sharefunyeh.gitbooks.io/taiji/content/)
 
+[下載全書](https://www.gitbook.com/download/pdf/book/sharefunyeh/taiji)。
