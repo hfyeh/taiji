@@ -3,5 +3,8 @@
       "youtube"
     ],
     "pluginsConfig": {        
+    },
+    "removeBlank": {
+      "([^#\.])\s(\W)": "$1$2",
     }
 }
