@@ -1,10 +1,10 @@
 {
     "plugins": [
-      "youtube"
+        "youtube",
+        "disqus"
     ],
     "pluginsConfig": {        
     },
     "removeBlank": {
       "([^#\.])\s(\W)": "$1$2",
-    }
 }
